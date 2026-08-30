@@ -1,6 +1,6 @@
 # Jira Project Access Report
 
-A Python command-line tool that generates a CSV wit data of users assigned to roles in a Jira Cloud project.
+A Python command-line tool that generates a CSV with data of users assigned to roles in a Jira Cloud project.
 
 The report includes users assigned directly to a project role and users who receive access through a Jira group.
 
