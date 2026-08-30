@@ -4,7 +4,7 @@ A Python command-line tool that generates a CSV wit data of users assigned to ro
 
 The report includes users assigned directly to a project role and users who receive access through a Jira group.
 
-This was made as a workaround since currently Jira does not have a native tool to create reports on the People tab.
+This utility provides a convenient way to export project-role assignments and group-derived membership to CSV when that view is not readily available in the desired reporting format.
 
 ## Features
 
